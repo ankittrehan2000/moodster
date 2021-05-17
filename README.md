@@ -5,4 +5,4 @@ Shows charts, predicts mood and lets you know how different factors are affectin
 
 Home page demo:
 
-<img src="https://github.com/ankittrehan2000/moodster/blob/main/ezgif.com-gif-maker.gif" />
+<img src="https://github.com/ankittrehan2000/moodster/blob/main/ezgif.com-gif-maker.gif" height="600" />
